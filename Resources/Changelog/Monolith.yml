@@ -13991,3 +13991,14 @@ Entries:
   id: 1548
   time: '2025-11-11T00:19:05.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2596
+- author: Onezero0
+  changes:
+    - type: Tweak
+      message: Lots of bar and drink-related items have inhands now! (wizden port)
+    - type: Tweak
+      message: >-
+        Flasks can now be opened/closed to prevent spilling of liquids. (wizden
+        port)
+  id: 1549
+  time: '2025-11-11T00:37:00.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2600
