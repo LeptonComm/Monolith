@@ -14076,3 +14076,12 @@ Entries:
   id: 1558
   time: '2025-11-12T18:36:54.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2612
+- author: Ilya246
+  changes:
+    - type: Fix
+      message: >-
+        Overhauled grid cleanup system. Report weirdness with shuttles/wreckage
+        being (not) deleted.
+  id: 1559
+  time: '2025-11-13T00:32:32.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2617
