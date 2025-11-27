@@ -14283,3 +14283,10 @@ Entries:
   id: 1584
   time: '2025-11-27T02:04:02.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2689
+- author: NazrinNya
+  changes:
+    - type: Add
+      message: Medical techfab has been returned to FlatpackVend!
+  id: 1585
+  time: '2025-11-27T17:23:15.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2692
