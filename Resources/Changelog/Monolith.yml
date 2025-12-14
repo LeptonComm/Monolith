@@ -14916,3 +14916,10 @@ Entries:
   id: 1654
   time: '2025-12-14T14:00:40.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2789
+- author: NazrinNya
+  changes:
+    - type: Tweak
+      message: Gygax health 1000 -> 500. Dark gygax health 1250 -> 900.
+  id: 1655
+  time: '2025-12-14T14:04:45.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2793
