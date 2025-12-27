@@ -15196,3 +15196,10 @@ Entries:
   id: 1685
   time: '2025-12-27T17:20:17.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2863
+- author: Ilya246
+  changes:
+    - type: Tweak
+      message: Significantly increased ship detection ranges.
+  id: 1686
+  time: '2025-12-27T21:03:35.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2871
