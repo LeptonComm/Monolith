@@ -1,31 +1,31 @@
 - type: vessel
-  id: Splinter
+  id: Shiv
   parent: BaseVesselAntag
-  name: TSF-SKR Splinter
-  description: A support ship for research and salvage to assist with fleet operations.
-  price: 52150
+  name: TSF-PIN Shiv
+  description: The workhorse of industry of the Solarian fleets, comes with an artifact research bay and good mining capabilities.
+  price: 60000
   category: Small
   group: Security
   access: Security
-  shuttlePath: /Maps/_Mono/Shuttles/Nfsd/splinter.yml
+  shuttlePath: /Maps/_Mono/Shuttles/Nfsd/shiv.yml
   guidebookPage: Null
   class:
   - Salvage
   - Science
   engine:
-  - AME
+  - Plasma
 
 - type: gameMap
-  id: Splinter
-  mapName: 'Splinter'
-  mapPath: /Maps/_Mono/Shuttles/Nfsd/splinter.yml
+  id: Shiv
+  mapName: 'Shiv'
+  mapPath: /Maps/_Mono/Shuttles/Nfsd/shiv.yml
   minPlayers: 0
   stations:
-    Splinter:
+    Shiv:
       stationProto: StandardFrontierSecurityVessel
       components:
       - type: StationNameSetup
-        mapNameTemplate: 'Splinter TSF{1}'
+        mapNameTemplate: 'Shiv TSF{1}'
         nameGenerator:
           !type:NanotrasenNameGenerator
           prefixCreator: '14'
